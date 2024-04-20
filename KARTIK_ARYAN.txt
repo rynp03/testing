@@ -1,1 +1,6 @@
-ARYAN CHUTIYA H 
+kartik sub branch 
+const ary = 10; //if anyone changes 
+//if both develop have same code in file 
+
+dev branch
+main branch
